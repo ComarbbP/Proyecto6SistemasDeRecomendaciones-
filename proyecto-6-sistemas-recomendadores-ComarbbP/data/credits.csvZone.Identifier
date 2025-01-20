@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://hybridge-hub-production.s3.amazonaws.com/uploads/9c361f52-a973-485f-a321-f36bae432ac8/1c1198a2-7cda-4d45-9d18-9f48865536e8/credits.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATRT4QVECTMD5UKPQ%2F20250120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250120T022355Z&X-Amz-Expires=60&X-Amz-Signature=ee2ab983fb1483a2cef306af0e548949579714686a15a15d08f5dbd2d5c4adf4&X-Amz-SignedHeaders=host
